@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.26)  30 MAY 2022 21:00
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.26)  31 MAY 2022 14:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -88,18 +88,27 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
  [1
 
-] [2] [3
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+ [2] [3
 
 ] [4
 
 ] [5] (./session 8 demo.aux) ) 
 Here is how much of TeX's memory you used:
- 1408 strings out of 476179
- 29041 string characters out of 5809544
+ 1433 strings out of 476179
+ 29459 string characters out of 5809544
  424462 words of memory out of 5000000
- 22190 multiletter control sequences out of 15000+600000
- 469283 words of font info for 31 fonts, out of 8000000 for 9000
+ 22203 multiletter control sequences out of 15000+600000
+ 471130 words of font info for 40 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,5n,77p,245b,215s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,8n,77p,245b,215s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on session 8 demo.pdf (5 pages).
