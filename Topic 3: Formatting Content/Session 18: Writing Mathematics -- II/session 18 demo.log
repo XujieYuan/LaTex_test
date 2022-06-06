@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.26)  6 JUN 2022 15:26
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.26)  6 JUN 2022 16:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"session 17 demo"
-(./session 17 demo.tex
+**"session 18 demo"
+(./session 18 demo.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -87,8 +87,8 @@ File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
 \g__pdf_backend_object_int=\count271
 \g__pdf_backend_annotation_int=\count272
 \g__pdf_backend_link_int=\count273
-) (./session 17 demo.aux)
-\openout1 = `"session 17 demo.aux"'.
+) (./session 18 demo.aux)
+\openout1 = `"session 18 demo.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -112,14 +112,14 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
  [1
 
-] (./session 17 demo.aux) ) 
+] (./session 18 demo.aux) ) 
 Here is how much of TeX's memory you used:
- 1173 strings out of 476179
- 19273 string characters out of 5809544
+ 1164 strings out of 476179
+ 19023 string characters out of 5809544
  323280 words of memory out of 5000000
- 21974 multiletter control sequences out of 15000+600000
- 469761 words of font info for 36 fonts, out of 8000000 for 9000
+ 21971 multiletter control sequences out of 15000+600000
+ 469737 words of font info for 33 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 54i,5n,62p,225b,111s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 54i,8n,62p,225b,117s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on session 17 demo.pdf (1 page).
+Output written on session 18 demo.pdf (1 page).
