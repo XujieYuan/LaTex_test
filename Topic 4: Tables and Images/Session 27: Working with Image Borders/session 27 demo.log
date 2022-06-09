@@ -3,8 +3,8 @@ entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"session 26 demo"
-(./session 26 demo.tex
+**"session 27 demo"
+(./session 27 demo.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -51,8 +51,8 @@ File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
 \g__pdf_backend_object_int=\count193
 \g__pdf_backend_annotation_int=\count194
 \g__pdf_backend_link_int=\count195
-) (./session 26 demo.aux)
-\openout1 = `"session 26 demo.aux"'.
+) (./session 27 demo.aux)
+\openout1 = `"session 27 demo.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -86,7 +86,7 @@ File: parrot.jpeg Graphic file (type bmp)
  [2]
 File: parrot.jpeg Graphic file (type bmp)
 <parrot.jpeg>
- [3] (./session 26 demo.aux) ) 
+ [3] (./session 27 demo.aux) ) 
 Here is how much of TeX's memory you used:
  924 strings out of 476179
  16764 string characters out of 5809544
@@ -96,4 +96,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  55i,5n,62p,206b,109s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on session 26 demo.pdf (3 pages).
+Output written on session 27 demo.pdf (3 pages).

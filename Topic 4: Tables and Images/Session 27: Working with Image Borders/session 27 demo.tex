@@ -1,0 +1,19 @@
+\documentclass{article}
+\usepackage{graphicx}
+\begin{document}
+
+    \setlength{\fboxsep}{15pt}
+    \section{Original Image}
+    \fbox{\includegraphics{parrot.jpeg}}
+
+    \setlength{\fboxrule}{4pt}
+    \section{Rotated Image}
+    \fbox{\includegraphics[angle=180]{parrot.jpeg}}
+
+    \section{Cropped Image}
+    \includegraphics[clip=true, trim = 5mm 5mm 5mm 5mm]{parrot.jpeg}
+
+    \section{Scaled Image}
+    \includegraphics[scale=0.5]{parrot.jpeg}
+
+\end{document}
