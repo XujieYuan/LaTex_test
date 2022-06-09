@@ -1,0 +1,17 @@
+\documentclass{article}
+\usepackage{graphicx}
+\begin{document}
+
+    \section{Original Image}
+    \includegraphics{parrot.jpeg}
+
+    \section{Rotated Image}
+    \includegraphics[angle=180]{parrot.jpeg}
+
+    \section{Cropped Image}
+    \includegraphics[clip=true, trim = 5mm 5mm 5mm 5mm]{parrot.jpeg}
+
+    \section{Scaled Image}
+    \includegraphics[scale=0.5]{parrot.jpeg}
+
+\end{document}
