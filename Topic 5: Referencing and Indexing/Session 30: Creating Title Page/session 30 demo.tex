@@ -2,6 +2,8 @@
 \usepackage{lipsum}
 \usepackage[margin=1in]{geometry}
 \usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
 \begin{document}
 	\begin{titlepage}
         \begin{center}
@@ -22,6 +24,52 @@
             Department Name
             \vfill
             Institute Name
+            \vfill
+            Year
+        \end{center}
+    \end{titlepage}
+
+    \begin{titlepage}
+        \begin{center}
+            \huge
+            \textbf{Summer Intership at Indian Institute of Technology}\\
+            \medskip
+            \includegraphics[width=1in]{iit}\\
+            \vfill
+            \LARGE
+            \textbf{Project: title} \\
+            \Large
+            \vfill
+            \textbf{Submitted by}\\
+        
+                \begin{figure}[h]
+                    \begin{subfigure}{0.3\textwidth}
+                        \centering
+                        \medskip
+                        \includegraphics[width=0.8in]{iit}\\
+                        Author 1\\(Institute)
+                    \end{subfigure}
+                    \hfill
+                    \begin{subfigure}{0.3\textwidth}
+                        \centering
+                        \medskip
+                        \includegraphics[width=0.8in]{iit}\\
+                        Author 2\\(Institute)
+                    \end{subfigure}
+                    \hfill
+                    \begin{subfigure}{0.3\textwidth}
+                        \centering
+                        \medskip
+                        \includegraphics[width=0.8in]{iit}\\
+                        Author 3\\(Institute)
+                    \end{subfigure}
+                \end{figure}
+            \vfill
+            Under the guidance of \\
+            \medskip
+            \textbf{Prof. Name}\\
+            \medskip
+            Department Name
             \vfill
             Year
         \end{center}
