@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.26)  29 SEP 2022 17:09
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.26)  30 SEP 2022 16:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -22,9 +22,25 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-02-24 L3 programming layer (loader) 
- (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
  (|extractbb --version)
 \c__kernel_sys_dvipdfmx_version_int=\count189
@@ -35,14 +51,7 @@ File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
 \g__pdf_backend_object_int=\count193
 \g__pdf_backend_annotation_int=\count194
 \g__pdf_backend_link_int=\count195
-))
-Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
-)
-Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count196
-\l__lipsum_a_int=\count197
-\l__lipsum_b_int=\count198
- (/usr/local/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (./09.29Homework.aux)
+) (./09.29Homework.aux)
 \openout1 = `09.29Homework.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -71,16 +80,31 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 7.
+File: Google_home.png Graphic file (type bmp)
+<Google_home.png>
+File: googleScholar.png Graphic file (type bmp)
+<googleScholar.png>
+File: google1.png Graphic file (type bmp)
+<google1.png>
  [1
 
-] (./09.29Homework.aux) ) 
+]
+File: Bing_home.png Graphic file (type bmp)
+<Bing_home.png>
+File: Bing1.png Graphic file (type bmp)
+<Bing1.png>
+File: Baidu_home.png Graphic file (type bmp)
+<Baidu_home.png>
+File: Baidu1.png Graphic file (type bmp)
+<Baidu1.png>
+ [2] [3] [4] [5] (./09.29Homework.aux) ) 
 Here is how much of TeX's memory you used:
- 932 strings out of 476179
- 20812 string characters out of 5809544
- 401318 words of memory out of 5000000
- 21729 multiletter control sequences out of 15000+600000
+ 998 strings out of 476179
+ 17906 string characters out of 5809544
+ 318605 words of memory out of 5000000
+ 21780 multiletter control sequences out of 15000+600000
  472035 words of font info for 42 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,6n,77p,257b,191s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55i,6n,62p,647b,207s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 09.29Homework.pdf (1 page).
+Output written on 09.29Homework.pdf (5 pages).
