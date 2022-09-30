@@ -1,0 +1,31 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Ghose%
+, Ipeirotis%
+\BCBL {}\ \BBA {} Li%
+}{%
+Ghose%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+ghose2014examining}
+\APACinsertmetastar {%
+ghose2014examining}%
+\begin{APACrefauthors}%
+Ghose, A.%
+, Ipeirotis, P\BPBI G.%
+\BCBL {}\ \BBA {} Li, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Examining the impact of ranking on consumer behavior and
+  search engine revenue} {Examining the impact of ranking on consumer behavior
+  and search engine revenue}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Management Science}{60}{7}{1632--1654}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
